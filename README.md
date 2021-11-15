@@ -1,11 +1,10 @@
 TikTok Backend
 -------------
 
-This repo holds the first phase of a project for a university course distributed systems. The idea was to build a multimedia content system using java 8, in which the information we want to transmit is a video
+This repo holds the first phase of a project for a university course Distributed Systems. The idea was to build a multimedia content system using java 8, in which the information we want to transmit is a video
 from one or more users to a multitude of multiple subscribers. Due to
 large number of users we want to serve, we need to
-implement a smart system, which will be able to transfer and
-to the appropriate consumers the relevant content. In order to share with
+implement a smart system, which will be able to transfer the relevant content to the appropriate consumers. In order to share with
 users the relevant information, we need to know who they are
 interested in it (subscribers), how they can show interest in it
 (topic subscription) and how they can get it. This information will
